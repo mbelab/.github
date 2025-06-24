@@ -1,3 +1,3 @@
-# mbelab
+# .github
 
-Michael Berghammer
+**Responsible:** Michael Berghammer
