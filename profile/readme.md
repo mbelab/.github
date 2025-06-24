@@ -1,3 +1,4 @@
 # mbelab
 
-**Responsible:** [Michael Berghammer](mailto:info@mbelab.de)
+- [Email](mailto:info@mbelab.de)
+- [Web](https://mbelab.de)
