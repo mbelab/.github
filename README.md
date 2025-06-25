@@ -1,6 +1,6 @@
 # .github
 
-Community health files.
+GitHub config and community health files.
 
 **Maintainer:** [Michael Berghammer](mailto:info@mbelab.de)
 
