@@ -5,7 +5,9 @@
 
 ## online tools
 
-- [VS Code Web](https://vscode.dev)
+- [DeepL](https://www.deepl.com)
+- [Etherpad](https://board.net)
 - [Draw.io](https://app.diagrams.net)
+- [VS Code Web](https://vscode.dev)
 - [OneCompiler](https://onecompiler.com)
 - [Online File Converter](https://www.online-convert.com)
