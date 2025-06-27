@@ -11,3 +11,4 @@
 - [VS Code Web](https://vscode.dev)
 - [OneCompiler](https://onecompiler.com)
 - [Online File Converter](https://www.online-convert.com)
+- [QR Code Generator](https://www.qrcode-monkey.com)
