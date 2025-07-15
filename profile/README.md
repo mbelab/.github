@@ -1,4 +1,4 @@
-# ![mbelab](mbelab_logo.png)
+# ![mbelab](https://github.com/mbelab/.github/blob/main/profile/mbelab_logo.png)
 
 - [Email](mailto:info@mbelab.de)
 - [Web](https://mbelab.de)
