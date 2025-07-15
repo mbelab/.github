@@ -1,4 +1,4 @@
-# mbelab
+# ![mbelab](mbelab_logo.png)
 
 - [Email](mailto:info@mbelab.de)
 - [Web](https://mbelab.de)
